@@ -120,17 +120,13 @@ npm run build
 
 ## Deployment
 
-This project includes a Vercel configuration file, so it is ready to deploy as a frontend app on Vercel.
-
-Current deployment status:
-- No live production URL is currently verified for this repo.
-- The repo is connected to GitHub and is ready to be deployed from the Vercel dashboard or GitHub integration.
-
-Expected Vercel-style URL after deployment:
+Live application URL:
 
 ```text
-https://ai-interview-platform.vercel.app
+https://miniature-octo-engine-7mw21g5su-goghul.vercel.app
 ```
+
+This project is deployed on Vercel and is connected to the GitHub repository.
 
 ## GitHub
 
